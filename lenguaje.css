@@ -1,0 +1,98 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    box-shadow: 820px;
+}
+ul{
+    display: flex;
+    justify-content: right;  
+}
+li{
+    padding: 0.1rem;
+    margin: 0.5rem;
+}
+a{
+    color: #104c42;
+    font-weight: 500 ;
+}
+
+a:hover{
+    font-weight: 700 ;
+}
+
+img{
+    margin: 1rem 5rem;
+}
+.vector{
+    position: relative;
+    top: 25px;
+}
+.contenedor{
+    background-image:url(https://github.com/user-attachments/assets/2bbd1ba3-f5fe-4978-9d51-61e122a41b83
+    );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+}
+
+h1{
+    color: aliceblue;
+    margin: -70px 140px;
+    font-size: 3.5rem;
+}
+.titulo_p1 {
+    color: rgba(238, 231, 231, 0.925);
+    font-size: 2.5rem;
+}
+.titulo_p2 {
+    color: rgba(240, 248, 255, 0.76);
+    position: relative;
+    top: -22px;
+    margin: -50px 165px;
+    display: inline-block;
+    font-size: 2.5rem;
+}
+.titulo_p3 {
+    color: aliceblue;
+    margin: 80px -175px;
+    font-size: 4.5rem;
+}
+.titulo_p3a{
+    color: aliceblue;
+    font-size: 4.5rem;
+    margin: 0px 355px;
+}
+.titulo_p4{
+    position: relative;
+    top: -38px;
+    color: rgba(240, 248, 255, 0.815);
+    margin: 550px 358px;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.seccion2 {
+    border-radius: 5px;
+    text-align: center;
+}
+h2{
+    color: rgb(155, 117, 22);
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.parrafo1, .parrafo2{
+    color: #646d6c;
+    padding:  0.2rem;
+    margin: 0.2rem;
+}
